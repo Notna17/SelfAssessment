@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - `try..catch`
+  - `try..catch`: 👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -22,10 +22,10 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks: 👂 heard
   - Callback-last-error-first
   - Thenable
-  - Promise
+  - Promise: 👂 heard
   - Async/await
   - Future
   - Deferred
@@ -71,7 +71,7 @@
   - Callback hell
   - Promise hell
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: 👂 heard
   - Better stack traces with return await
   - JSON streaming serialization
   - AsyncLocalStorage

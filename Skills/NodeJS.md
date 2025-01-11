@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
@@ -92,14 +92,14 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing: 👂 heard
   - CI/CD
   - Readable
   - Writable
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console: 👂 heard
   - Inspector
 - Data access
   - Data access layer
@@ -110,7 +110,7 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error`: 👂 heard
   - `error.cause`
   - `error.code`
   - `error.message`
