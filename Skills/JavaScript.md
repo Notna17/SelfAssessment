@@ -1,28 +1,28 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `Object` k
+  - `Function` k
+  - `Boolean` k
+  - `Number` k
+  - `BigInt` k
+  - `String` k
+  - `Symbol` k
+  - `Infinity` k
+  - `NaN` k
+  - `undefined` k
+  - `null` k
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` e
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators k
   - Async generator
   - Async iterator
-  - Chaining
+  - Chaining h
   - Optional chaining
   - IIFE
   - Async IIFE
@@ -32,12 +32,12 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators k
+  - Logical operators k
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Bitwise operators k
+  - Ternary operator k
+  - `void` k
   - `yield`
   - `await`
   - Template literal
@@ -48,7 +48,7 @@
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`
+  - `Number.parseInt` h
   - `Number.parseFloat`
   - Property descriptors
   - Sealing properties
@@ -59,42 +59,42 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
+  - `if` e
+  - `while` e
+  - `do..while` e
+  - `for` e
+  - `for..in` e
+  - `for..of` e
+  - `for await` h
+  - `throw` k
+  - `break` k
   - `continue`
   - `import`
   - `export`
   - `label`
-  - `try..catch`
-  - `switch`
+  - `try..catch` h
+  - `switch` k
   - `class`
   - `extends`
   - `with`
-  - `new`
+  - `new` k
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
+  - Arrow function k
+  - Async function h
+  - Function declaration k
   - Function expression
-  - Default parameters
+  - Default parameters k
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` k
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - `WeakMap`
-  - `WeakSet`
+  - `Array` k
+  - `Map` h
+  - `Set` h
+  - `WeakMap` h
+  - `WeakSet` h
   - Typed arrays
   - Mixins
   - `Object.assign`
@@ -102,21 +102,21 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math` k
   - `Reflect`
-  - `Error`
+  - `Error` h
   - `Atomics`
-  - `JSON`
+  - `JSON` h
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` h
   - `console`
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - Node.js k
+  - npm k
+  - prettier k
+  - MDN k
   - TC39
