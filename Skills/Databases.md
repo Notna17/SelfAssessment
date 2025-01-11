@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types k
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery h
   - Database scalability
   - Relational databases
-  - Key-value store
+  - Key-value store k
   - Tuple store
   - Graph databases
-  - Object databases
+  - Object databases h
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -86,7 +86,7 @@
   - Firebase
 - Data engineering
   - Data warehousing
-  - Business intelligence
+  - Business intelligence h
   - Big data h
   - Data analysis h
   - AI tools k
