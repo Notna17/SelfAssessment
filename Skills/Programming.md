@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm h
+  - Syntax h
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm h
   - Programming paradigm
-  - Programming language
+  - Programming language h
   - Contract
   - Module
-  - Library
+  - Library h
   - Package
   - Component
   - Framework
   - Platform
-  - Source code
+  - Source code h
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
@@ -32,15 +32,15 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value k
+  - Identifier h
+  - Variable k
+  - Constant k
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function h
   - Procedure
   - Method
   - Class
@@ -50,11 +50,11 @@
   - Flag
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
+  - Conditions h
+  - Loops h
   - Assignment
   - Regular expression
-  - Interface
+  - Interface h
   - Namespaces
   - Call stack
   - Naming conventions
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument h
+  - Parameter h
   - Pure function
   - Lambda expression
   - Side effects
@@ -122,13 +122,13 @@
   - Stack
   - Deque
   - Tree
-  - Graph
+  - Graph h
   - Iterator
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON h
   - JSON5
   - YAML
 - Networking
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL k
   - URN
   - URI
 - Process and tools
@@ -152,12 +152,12 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime h
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger h
   - Tracing
   - Garbage collection
   - Refactoring
@@ -165,7 +165,7 @@
   - Exception
   - Unittesting
   - git
-  - Github
+  - Github h
   - Docker
   - Kubernetes
   - GCC
@@ -183,7 +183,7 @@
   - Not invented here
   - Dead code
   - Unreachable code
-  - Duplicate code
+  - Duplicate code h
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -214,15 +214,15 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux k
+  - Unix h
   - BSD
-  - MacOS
-  - Windows
+  - MacOS k
+  - Windows k
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 h
   - W3C
   - ODMG
